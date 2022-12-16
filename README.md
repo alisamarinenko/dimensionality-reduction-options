@@ -1,2 +1,2 @@
 # dimensionality-reduction-options
-Apply dimensionality reduction techniques to price a basket of options
+Apply dimensionality reduction techniques (PCA and Autoencoders) to price a basket of options using Monte Carlo 
